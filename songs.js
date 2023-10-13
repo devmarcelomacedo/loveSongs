@@ -354,5 +354,6 @@ export default [
  {
     src: "./",
     name: "",
- },
+ }, 
+ 
 ];
