@@ -16,15 +16,15 @@ export default [
     name: "Fã número 1 - Guilherme Arantes",
 },
 {
-    src: "./src/A Dois Passos Do Paraíso.mp3",
-    name: "A Dois Passos Do Paraíso - Blitz",
+    src: "./src/Kid Abelha   A Fórmula do Amo.mp3",
+    name: "A Fórmula do Amo - Kid Abelha",
 },
 {
-    src: "./src/A fórmula do amor.mp3",
-    name: "A fórmula do amor - Kid Abelha",
+    src: "./src/Ah! Como Eu Ame.mp3",
+    name: "Como Eu Ame",
 },
 {
-    src: "./src/Ah! Como Eu Amei.mp3",
+    src: "./src",
     name: "Ah! Como Eu Amei - Bebito di Paula",
 },
 {
@@ -44,8 +44,8 @@ export default [
     name: "Forever Young - Alphaville",
 },
 {
-    src: "./src/Amanhã Talvez.mp3",
-    name: "Amanhã Talvez - Joana",
+    src: "./src/Amanhã Talve.mp3",
+    name: "Amanhã Talve - Joana",
 },
 {
     src: "./src/ANJO AZUL   MARQUINHOS MOUR.mp3",
@@ -116,11 +116,11 @@ export default [
     name: "Pareço um Menino - Fabio Junior",
 },
 {
-    src: "./src/Flávio Venturini  Espanhola.mp3",
+    src: "./src/Flávio Venturini  Espanhol.mp3",
     name: "Espanhola - Flavio Venturini",
 },
 {
-    src: "./src/Foi Deus Quem Fez Voce.mp3",
+    src: "./songs/loveSongs/src/Foi Deus Quem Fez Voc�.mp3",
     name: "Foi Deus Quem Fez Voce - Amelhinha",
 },
 {
@@ -152,7 +152,7 @@ export default [
     name: "Fixação - Kid Abelha ",
 },
 {
-    src: "./src/Kid Abelha   src/Kid Abelha   No Meio da Rua (Disco Voador.mp3(Disco Voador.mp3",
+    src: "./songs/loveSongs/src/Kid Abelha   No Meio da Rua (Disco Voador.mp3",
     name: "No meio da rua - Kid Abelha",
 },
 {
@@ -161,7 +161,7 @@ export default [
 },
 {
     src: "./src/Lembrança.mp3",
-    name: "Lembranças - Sandra de Sá",
+    name: "Lembranças Kátia",
 },
 {
     src: "./src/Lobão   Me chama (Áudio HQ.mp3",
@@ -184,7 +184,7 @@ export default [
     name: "uito diferente - Guilherme Arantes",
 },
 {
-    src: "./src/Mulher Nova, Bonita e Carinhosa Do.mp3",
+    src: "./songs/loveSongs/src/Mulher Nova, Bonita e Carinhosa Faz o Homem Gemer Sem Sentir Do.mp3",
     name: "Mulher nova bonita - Amelhinha",
 },
 {
@@ -196,7 +196,7 @@ export default [
     name: "love hurts - Nazareth",
 },
 {
-    src: "./src/Nem um Toque.mp3",
+    src: "./src/Nem um Toqu.mp3",
     name: "Nem um Toque",
 },
 {
@@ -220,7 +220,7 @@ export default [
     name: "Patrick Swayze",
 },
 {
-    src: "./src/Perigo.mp3",
+    src: "./src/Perig.mp3",
     name: "Perigo ",
 },
 {
