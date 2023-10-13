@@ -8,7 +8,7 @@ export default [
     name: "Um dia, um adeus - Guilherme Arantes",
 },
 {
-    src: "./src/14 Bis   Todo azul do mar.mp3",
+    src: "./src/14 Bis   Todo azul do ma.mp3",
     name: "Todo azul do mar - 14 Bis",
 },
 {
