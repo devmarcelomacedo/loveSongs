@@ -12,7 +12,7 @@ export default [
     name: "Todo azul do mar - 14 Bis",
 },
 {
-    src: "./src/1985   Guilherme Arantes   Fã número 1.mp3",
+    src: "./src/1985   Guilherme Arantes   Fã número.mp3",
     name: "Fã número 1 - Guilherme Arantes",
 },
 {
