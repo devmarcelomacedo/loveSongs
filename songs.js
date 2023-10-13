@@ -347,13 +347,6 @@ export default [
     src: "./src/Zé Ramalho   Cidadão (Áudio Oficial.mp3",
     name: "Cidadão - Zé Ramalho",
  },
- {
-    src: "./",
-    name: "",
- },
- {
-    src: "./",
-    name: "",
- }, 
- 
+
+
 ];
